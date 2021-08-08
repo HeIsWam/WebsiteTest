@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fresh Organic Food Direct From Farmer to Customers | Fwamer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="grayscale balaram.png" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="styling.css">
+    <meta name="description" content="Fresh Organic Fruits and Vegetables Direct From Farm to Customer Farmer Agriculture Freshly noChemicals">
+</head>
+<body>
+    <div class="menu-bar">
+
+        <div class="company-name"><img src="grayscale balaram.png" alt="logo"><h1>Fwamer</h1></div>
+        <div class="menu">
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="#services-step">Services</a></li>
+                <li><a href="">Franchisee</a></li>
+                <li><a href="">Careers</a></li>
+                <li><a href="#contact-step">Contact Us</a></li>
+            </ul>
+        </div>
+    </div>
+    <main>
+    <div class="nav-bar">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+
+            <div class="item active">
+                <img src="gemma-stpjHJGqZyw-unsplash.jpg" alt="Chania">
+                <div class="carousel-caption">
+                <h3>Chania</h3>
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="melissa-askew-W8K3ZKTJ5fM-unsplash.jpg" alt="Chania">
+                <div class="carousel-caption">
+                <h3>Chania</h3>
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+                </div>
+            </div>
+            
+            <div class="item">
+                <img src="nrd-D6Tu_L3chLE-unsplash.jpg" alt="Flower">
+                <div class="carousel-caption">
+                <h3>Flowers</h3>
+                <p>Beautiful flowers in Kolymbari, Crete.</p>
+                </div>
+            </div>
+        
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+    <div id="services-step"></div>
+    <div class="content-bar" >
+        <div class="content-head">Services</div>
+        <div class="text-list first-bar">
+            <img src="ashley-winkler-cz4rC-IRfxw-unsplash.jpg" alt="">
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem nisi ad reiciendis enim repudiandae itaque nulla adipisci tenetur ab, cum illum, illo veniam veritatis voluptatem rem doloribus earum nihil aperiam necessitatibus? Incidunt, repellendus odio. Corrupti tempora at deleniti aliquid sit.</p>
+        </div>
+        <div class="text-list second-bar">
+            <img src="ashley-winkler-cz4rC-IRfxw-unsplash.jpg" alt="">
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem nisi ad reiciendis enim repudiandae itaque nulla adipisci tenetur ab, cum illum, illo veniam veritatis voluptatem rem doloribus earum nihil aperiam necessitatibus? Incidunt, repellendus odio. Corrupti tempora at deleniti aliquid sit.</p>
+        </div>
+        <div class="text-list third-bar">
+            <img src="ashley-winkler-cz4rC-IRfxw-unsplash.jpg" alt="">
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem nisi ad reiciendis enim repudiandae itaque nulla adipisci tenetur ab, cum illum, illo veniam veritatis voluptatem rem doloribus earum nihil aperiam necessitatibus? Incidunt, repellendus odio. Corrupti tempora at deleniti aliquid sit.</p>
+        </div>
+    </div>
+    <div class="comments-head"><span>JOIN OUR HAPPY CUSTOMERS</span></div>
+    <!-- TESTIMONIALS -->
+        <div class="testimonal-caresol">
+        <div class="grid-container">
+            <div class="grid-item">
+                <img src="man.jpg" alt="">
+                <h4>Vamshi Krishna</h4>
+                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione natus ullam eum voluptas quia eius. Adipisci nesciunt optio sapiente aspernatur.<i class="fa fa-quote-right"></i> </p>
+            </div>
+            <div class="grid-item">
+                <img src="man.jpg" alt="">
+                <h4>Vamshi Krishna</h4>
+                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione natus ullam eum voluptas quia eius. Adipisci nesciunt optio sapiente aspernatur.<i class="fa fa-quote-right"></i> </p>
+            </div>
+            <div class="grid-item">
+                <img src="female.jpg" alt="">
+                <h4>Vamshi Krishna</h4>
+                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione natus ullam eum voluptas quia eius. Adipisci nesciunt optio sapiente aspernatur.<i class="fa fa-quote-right"></i> </p>
+            </div>
+            <div class="grid-item">
+                <img src="man.jpg" alt=""> 
+                <h4>Vamshi Krishna</h4>
+                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione natus ullam eum voluptas quia eius. Adipisci nesciunt optio sapiente aspernatur.<i class="fa fa-quote-right"></i> </p>
+            </div>
+            <div class="grid-item">
+                <img src="man.jpg" alt="">
+                <h4>Vamshi Krishna</h4>
+                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione natus ullam eum voluptas quia eius. Adipisci nesciunt optio sapiente aspernatur.<i class="fa fa-quote-right"></i> </p>
+            </div>
+            <div class="grid-item">
+                <img src="man.jpg" alt="">
+                <h4>Vamshi Krishna</h4>
+                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione natus ullam eum voluptas quia eius. Adipisci nesciunt optio sapiente aspernatur.<i class="fa fa-quote-right"></i> </p>
+            </div>  
+        </div>
+        </div>
+    <!-- END OF TESTIMONIALS -->
+    <div id="contact-step"></div>
+    <div class="contact-us">
+        <div class="contact-info">
+        <div class="office-address"><h5>Main Branch</h5></div>
+        <div class="office-address"><address>Address: #107, H04 Building, Cyber Valley, Hitech City, Hyderabad, Telangana - 500081</address></div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d487293.27746997314!2d78.12784088715938!3d17.41280836279014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1628414617418!5m2!1sen!2sin"  allowfullscreen="" loading="lazy"></iframe>
+        </div> 
+        <div class="timings">
+            <div class="timings-head"><h5>Business Hours</h5></div>
+            <table itemprop="openingHours"><tbody><tr><th class="x2TOCf">Mon:</th><td class="o0m3Qb"><span class="WF8WNe">6:00 AM – 10:00 PM</span></td></tr><tr><th class="x2TOCf">Tue:</th><td class="o0m3Qb"><span class="WF8WNe">6:00 AM – 10:00 PM</span></td></tr><tr><th class="x2TOCf">Wed:</th><td class="o0m3Qb"><span class="WF8WNe">6:00 AM – 10:00 PM</span></td></tr><tr><th class="x2TOCf">Thu:</th><td class="o0m3Qb"><span class="WF8WNe">6:00 AM – 10:00 PM</span></td></tr><tr><th class="x2TOCf">Fri:</th><td class="o0m3Qb"><span class="WF8WNe">6:00 AM – 10:00 PM</span></td></tr><tr><th class="x2TOCf">Sat:</th><td class="o0m3Qb"><span class="WF8WNe">6:00 AM – 10:00 PM</span></td></tr><tr><th class="x2TOCf">Sun:</th><td class="o0m3Qb"><span class="WF8WNe">6:00 AM – 10:00 PM</span></td></tr></tbody></table>
+        </div>
+    </div>
+    </main>
+    <footer>
+
+    </footer>
+
+<!-- //comments cards -->
+<script>
+$(document).ready(function(){
+
+});
+
+</script>
+</body>
+</html>
